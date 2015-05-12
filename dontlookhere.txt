@@ -1,0 +1,4 @@
+for schools, who need to gather responses,
+our project is an online form generator that
+is legal. unlike Google Forms, the product
+will not violate PDPA.
